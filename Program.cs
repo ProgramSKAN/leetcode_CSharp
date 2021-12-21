@@ -7,7 +7,10 @@ namespace leetcode_CSharp
     static void Main(string[] args)
     {
       //   ReverseString.Run();
-      ReverseArrayOfChars.Run();
+      //   ReverseArrayOfChars.Run();
+      //ReverseInteger.Run();
+
+      SortPackOfCards.Run();
     }
   }
 }
